@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+ENV/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Specyficzne dla projektu
+vector_db_data/
+vector_db_data;C/
+dane/
+embedding_model/
+*.log 
