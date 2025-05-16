@@ -14,8 +14,7 @@ Ten projekt implementuje system Retrieval-Augmented Generation (RAG) wykorzystuj
 
 1. Sklonuj repozytorium:
 ```bash
-git clone <adres-twojego-repozytorium>
-cd <nazwa-repozytorium>
+git clone https://github.com/adamWEST11235/RAG_for_Witcher.git
 ```
 
 2. Utwórz i aktywuj środowisko wirtualne:
